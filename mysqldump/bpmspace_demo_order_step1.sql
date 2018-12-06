@@ -1,7 +1,7 @@
 CREATE DATABASE  IF NOT EXISTS `bpmspace_demo_order` /*!40100 DEFAULT CHARACTER SET utf8 */;
 USE `bpmspace_demo_order`;
 -- MySQL dump 10.13  Distrib 5.7.17, for Win64 (x86_64)
---
+-- 
 -- Host: 127.0.0.1    Database: bpmspace_demo_order
 -- ------------------------------------------------------
 -- Server version	5.5.5-10.3.7-MariaDB-1:10.3.7+maria~jessie-log
