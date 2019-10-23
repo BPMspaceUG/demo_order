@@ -1,2 +1,2 @@
-FROM BPMspaceUG/docker_bpmspace_base:latest_live
+FROM bpmspaceug/docker_bpmspace_base:latest_live
 COPY . /var/www/html/
