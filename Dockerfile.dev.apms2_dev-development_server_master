@@ -1,0 +1,2 @@
+FROM bpmspace/docker_bpmspace_base:apms2_dev-development_server_master
+COPY . /var/www/html/

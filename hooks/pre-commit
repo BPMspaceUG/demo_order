@@ -1,4 +1,4 @@
 #!/bin/sh
-#
-php ./backup.php
+( exec "../git_setup_repo.sh" )
+php ./inc/backup.inc.php
 git add ./sqldump/*.sql

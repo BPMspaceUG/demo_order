@@ -1,2 +1,0 @@
-FROM bpmspace/docker_bpmspace_base:latest_dev
-COPY . /var/www/html/
